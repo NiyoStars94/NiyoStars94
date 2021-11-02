@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nour
-- 👀 I’m interested in front-end web development
+- 👀 I’m a beginner in front-end web development
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on front-end projects
+- 💞️ I’m looking to collaborate on front-end projects in the future
 - 📫 How to reach me ...
 
 <!---
