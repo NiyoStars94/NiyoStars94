@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nour
 - 👀 I’m a beginner in front-end web development
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end projects in the future
 - 📫 How to reach me ...
 
