@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nour
+- 👋 Hi, I’m Niyo
 - 👀 I’m a beginner in front-end web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end projects in the future
